@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Kevin - I'm a PostDoc at Friedrich Schiller University of Jena and the Florida Museum of Natural History of the University of Florida. 
+I previously worked and studied at the University of Göttingen, Technical University of Ilmenau, and Max Planck Institute for Biogeochemistry.
+My research interests cover phylogenomics, morphometrics, and integrative taxonomy, 🌱 with a particular focus on polyploidy, hybridization, and asexuality in plants.
+🔭 Recently, I've been diving into pipeline programming and deep learning approaches. 
+
+I'm always happy to collaborate! 📫 Send me an email at either kevin.karbstein@uni-jena.de or k.karbstein@ufl.edu.
+
 <!--
 **KK260/kk260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
