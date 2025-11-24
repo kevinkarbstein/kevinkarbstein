@@ -9,12 +9,8 @@ I'm always happy to collaborate! 📫 Send me an email at either kevin.karbstein
 
 
 Some of my recent projects:
-
-
-- [LazyModeler](https://github.com/KK260/LazyModeler): LazyModeler is a statistical package for the programming language R that allows for easy performance of regression modeling
-
-- [GenomeXtract](https://github.com/KK260/GenomeXtract): Automatically download, filter, and assemble genomes (or genes) from NCBI
-
+- [LazyModeler](https://github.com/KK260/LazyModeler): LazyModeler is a statistical package for the programming language R that allows for easy performance of regression modeling. [Journal of Open Source Software]()
+- [GenomeXtract](https://github.com/KK260/GenomeXtract): Automatically download, filter, and assemble genomes (or genes) from NCBI. [The Plant Journal](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70390)
 - and many more
 
 <!--
