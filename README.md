@@ -11,8 +11,11 @@ I'm always happy to collaborate! 📫 Send me an email at either kevin.karbstein
 Some of my recent projects:
 
 
-- [LazyModeler]([https://mywebsite.com](https://github.com/KK260/LazyModeler)): LazyModeler is a statistical package for the programming language R that allows for easy performance of regression modeling
+- [LazyModeler](https://github.com/KK260/LazyModeler): LazyModeler is a statistical package for the programming language R that allows for easy performance of regression modeling
 
+- [GenomeXtract](https://github.com/KK260/GenomeXtract): Automatically download, filter, and assemble genomes (or genes) from NCBI
+
+- [...]
 
 <!--
 **KK260/kk260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
