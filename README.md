@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Kevin - I'm a PostDoc at Friedrich Schiller University of Jena and the Florida Museum of Natural History of the University of Florida. 
+My name is Kevin - I'm a PostDoc at the Friedrich Schiller University of Jena and Guest Researcher at the Florida Museum of Natural History of the University of Florida. 
 I previously worked and studied at the Georg August University of Göttingen, Technical University of Ilmenau, and Max Planck Institute for Biogeochemistry.
 My research interests cover phylogenomics, morphometrics, integrative taxonomy, and statistical modeling, 🌱 with a particular focus on polyploidy, hybridization, and asexuality in plants.
 🔭 Recently, I've been diving into pipeline programming and deep learning approaches. 
